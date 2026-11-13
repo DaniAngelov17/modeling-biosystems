@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="Fl5QgihZL1DEWFaCB_02">
-    <mxGraphModel dx="576" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="386" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
             <mxPoint x="580.5" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OxUAWxHSVRmKpoOUmJ7Z-68" connectable="0" parent="OxUAWxHSVRmKpoOUmJ7Z-67" style="edgeLabel;resizable=0;html=1;inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;fontColor=light-dark(#3100cc, #ededed);" value="kcal, KM" vertex="1">
+        <mxCell id="OxUAWxHSVRmKpoOUmJ7Z-68" connectable="0" parent="OxUAWxHSVRmKpoOUmJ7Z-67" style="edgeLabel;resizable=0;html=1;inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;fontColor=light-dark(#3100cc, #ededed);" value="kcat, KM" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fpq4TUKB1HrKkvuD_To-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
